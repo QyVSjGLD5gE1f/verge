@@ -185,3 +185,5 @@ Use the `-v` option for verbose output.
 You are encouraged to write functional tests for new or existing features.
 Further information about the functional test framework and individual 
 tests is found in [test/functional](/test/functional).
+
+<!-- Auto-update: 2025-10-15T15:06:44.908937 -->
